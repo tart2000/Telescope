@@ -1,0 +1,25 @@
+.header {
+    background-color: white; 
+    color: black; 
+}
+#search {
+    background: rgb(248,248,248);
+}
+.header .logo {
+    top: 33px;
+}
+.fa {
+    margin-left: 10px;
+}
+#footer {
+}
+.col-md-4 {
+    width: 33.3%;
+    display: inline-block;
+}
+.img-responsive {
+    width:100%;
+}
+.center {
+    text-align: center;
+}

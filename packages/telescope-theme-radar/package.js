@@ -6,10 +6,11 @@ Package.describe({
 
 Package.onUse(function (api) {
 
-  api.use(['screen:css', 'telescope-theme-hubble'], ['client']);
+  api.use(['templating', 'telescope-base', 'telescope-theme-hubble'], ['client']);
 
   api.addFiles([
-    'client/stylesheets/screen.css',
+    'lib/client/stylesheets/screen.css',
+    'lib/client/radar_post_title.html',
     ], ['client']);
 
 });
