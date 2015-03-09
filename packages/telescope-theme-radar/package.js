@@ -11,6 +11,8 @@ Package.onUse(function (api) {
   api.addFiles([
     'lib/client/stylesheets/screen.css',
     'lib/client/radar_post_title.html',
+    'lib/client/radar_post_domain.html',
+    'lib/client/radar_post_domain.js',
     ], ['client']);
 
 });
