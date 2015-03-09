@@ -2,6 +2,9 @@
     background-color: white; 
     color: black; 
 }
+.views-menu {
+    display:none;
+}
 #search {
     background: rgb(248,248,248);
 }
@@ -10,8 +13,6 @@
 }
 .fa {
     margin-left: 10px;
-}
-#footer {
 }
 .col-md-4 {
     width: 33.3%;
