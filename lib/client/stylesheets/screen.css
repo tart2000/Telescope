@@ -56,7 +56,8 @@
     min-height: 400px;
     -webkit-filter: grayscale(50%);
     filter: gray;
-    padding-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     margin-bottom: 10px;
 }
 #banner h1 {
