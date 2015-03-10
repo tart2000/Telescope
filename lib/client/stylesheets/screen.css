@@ -1,9 +1,13 @@
 .header {
     background-color: white; 
     color: black; 
+    margin-bottom: 0px;
 }
 .views-menu {
     display:none;
+}
+.mobile-menu-button .hamburger {
+    fill: black;
 }
 #search {
     background: rgb(248,248,248);
@@ -38,4 +42,25 @@
 }
 .single-post .radar-post-domain {
     display: none !important;
+}
+.static-page p {
+    font-size: 21px;
+}
+#banner {
+    background-image: url("/oculus.jpg");
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 400px;
+    -webkit-filter: grayscale(50%);
+    filter: gray;
+    padding-top: 100px;
+    margin-bottom: 10px;
+}
+#banner h1 {
+    color: white; 
+    background-color: rgba(0,0,0,0.5);
+    padding: 5px;
 }
