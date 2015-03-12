@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/TelescopeJS/Telescope.svg)](https://travis-ci.org/TelescopeJS/Telescope)
 [![Code Climate](https://codeclimate.com/github/TelescopeJS/Telescope/badges/gpa.svg)](https://codeclimate.com/github/TelescopeJS/Telescope)
 
-This is the source code for RDR, the collaborative trendwatching platform by [Techno Culture Club](http://technoculture.club). 
+This is the source code for [RDR](http://radar.technoculture.club), the collaborative trendwatching platform by [Techno Culture Club](http://technoculture.club). 
 
 It uses [Telescope](http://telesc.pe)
 
